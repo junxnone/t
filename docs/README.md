@@ -1,7 +1,7 @@
 ---
 Title | README
 -- | --
-Updated @ | `2023-06-17T12:20:44Z`
+Updated @ | `2023-06-24T16:11:14Z`
 Edit @ | [here](https://github.com/junxnone/t/issues/1)
 
 ---
@@ -13,11 +13,11 @@ This is a 旅行攻略 Wiki. Supported By the [Template Wiki](https://junxnone.g
 
 
 - [Mindmap - Markmap](https://junxnone.github.io/t/markmap.html?md=https://junxnone.github.io/t/_sidebar.md)
-- [3D Knowledge Graph](https://junxnone.github.io/t/kg)
+- [3D Knowledge Graph](https://junxnone.github.io/kg?json=t/kg.json)
 
 ---
 
 [Index](_sidebar.md ':include')
 
-[kg](https://junxnone.github.io/t/kg ':include :type=iframe width=100% height=800px')
+[kg](https://junxnone.github.io/kg?json=t/kg.json ':include :type=iframe width=100% height=800px')
 
