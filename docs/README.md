@@ -1,7 +1,7 @@
 ---
 Title | README
 -- | --
-Updated @ | `2023-07-01T17:21:37Z`
+Updated @ | `2023-07-01T17:23:45Z`
 Edit @ | [here](https://github.com/junxnone/t/issues/1)
 
 ---
@@ -12,7 +12,7 @@ Edit @ | [here](https://github.com/junxnone/t/issues/1)
 This is a 旅行攻略 Wiki. Supported By the [Template Wiki](https://junxnone.github.io/twiki/#/)
 
 
-- [Mindmap - Markmap](https://junxnone.github.io/t/markmap.html?md=https://junxnone.github.io/t/_sidebar.md)
+- [Mindmap - Markmap](https://junxnone.github.io/jstools/mdmarkmap?md=https://junxnone.github.io/t/_sidebar.md)
 - [3D Knowledge Graph](https://junxnone.github.io/jstools/3dkg/?json=https://junxnone.github.io/t/kg.json)
 
 ---
